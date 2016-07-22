@@ -1,0 +1,17 @@
+{
+  "name": "mytodoapp",
+  "version": "1.0.0",
+  "description": "my code louisville project",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Bray-Walker",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "body-parser": "1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "4.5.5"
+  }
+}
